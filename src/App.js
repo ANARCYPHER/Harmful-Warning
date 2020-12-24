@@ -7,19 +7,20 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          The site ahead <code>contains harmful</code> programs.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.cia.gov/index.html"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Deceptive site ahead
         </a>
       </header>
     </div>
   );
 }
+//Develop by TrojanVulgar
 
 export default App;
